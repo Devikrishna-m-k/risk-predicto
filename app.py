@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 st.title("🌱 Asamannoor Environmental & Health Impact Dashboard (2023–2035)")
-st.markdown("Quantifying the long-term ecological and public health risks of the plywood industrial cluster in Asamannoor, Kerala. Developed for the **Millennium Fellowship**.")
+st.markdown("Quantifying the long-term ecological and public health risks of the plywood industrial cluster in Asamannoor, Kerala.")
 st.divider()
 
 # Load Data and Generate Projections
